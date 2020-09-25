@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Las compras</string>
+    <string name="btn_inciar">Iniciar Registro de Compras</string>
+    <string name="Creada_por">Aplicación creada por :</string>
+    <string name="CEO">Oscar y Edrei</string>
+    <string name="NOMPEDIDO">Número de pedido</string>
+    <string name="Fecha">Fecha que realiza</string>
+    <string name="alcachofa">Alcachofa</string>
+    <string name="apio">Apio</string>
+    <string name="berenjena">Berenjena</string>
+    <string name="calabaza">Calabaza</string>
+    <string name="cebolla">Cebolla</string>
+    <string name="espinacas">Espinacas</string>
+    <string name="tomate">Tomate</string>
+    <string name="Jitomate">Jitomate</string>
+    <string name="Zanahoria">Zanahorias</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="btn_Guardar">Guardar</string>
+    <string name="btn_Eliminar">Eliminar esta lista</string>
+    <string name="Crear_nuevo">Crear nueva lista</string>
+    <string name="Lista_frutas">Ingresa el precio total de cada verdura: </string>
+
+</resources>
